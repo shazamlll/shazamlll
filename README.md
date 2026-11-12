@@ -11,6 +11,8 @@ My recent work includes:
 
 ## Public projects
 
+- [agent-eval-demo](https://github.com/shazamlll/agent-eval-demo) — [live demo](https://shazamlll.github.io/agent-eval-demo/):
+  Interactive demo of the agent evaluation methodology I use: retrieval & generation eval datasets, deterministic checks, semantic review, input decontamination, and version freezing. Synthetic data only.
 - [file-distillation](https://github.com/shazamlll/file-distillation): A reusable Codex skill for distilling local documents into an Obsidian knowledge base.
 
 Most of my professional engineering work is in proprietary repositories.
